@@ -1,5 +1,5 @@
 
-<h3> 📁 &nbsp;CLEAN BASE - Simple base, for testing mods! </h3>#
+<h3> 📁 &nbsp;CLEAN BASE - Simple base, for testing mods! </h3>
 
 -----------------------[ FIVEM ]------------------------
 
