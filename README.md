@@ -18,4 +18,7 @@
 > /tpway (Teleport to a place marked on the map)
 
 
-
+vRP original Framework
+vRP 0.5 (old): https://github.com/ImagicTheCat/vRP/tree/0.5
+vRP 1.0 (vrpex): https://github.com/ImagicTheCat/vRP/tree/1.0
+vRP 2.0: https://github.com/ImagicTheCat/vRP/tree/master
