@@ -1,5 +1,5 @@
 
-# Loup_vRP - Simple base, for testing mods!
+# Simple base, for testing mods!
 
 -------------------------FIVEM-------------------------
 
