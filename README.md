@@ -1,7 +1,7 @@
 
 # Simple base, for testing mods!
 
--------------------------[ FIVEM ]-------------------------
+-----------------------[ FIVEM ]------------------------
 
 + Available commands:
 
@@ -16,8 +16,10 @@
 > /tuning (Apply modifications to your vehicle)
 >
 > /tpway (Teleport to a place marked on the map)
+  
+  
+-----------------[ vRP original Frameworkc ]--------------
 
-------------------------[ vRP original Frameworkc ]------------------------
 
 <p>vRP 0.5 (old): https://github.com/ImagicTheCat/vRP/tree/0.5</p>
 <p>vRP 1.0 (vrpex): https://github.com/ImagicTheCat/vRP/tree/1.0</p>
